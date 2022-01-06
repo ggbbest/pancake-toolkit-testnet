@@ -1,5 +1,5 @@
 {
-  "name": "@nguyenphu27/uikit",git
+  "name": "@ggbbest/uikit",git
   "version": "0.2.1",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/nguyenphu27/pancake-toolkit-testnet",
+  "repository": "https://github.com/ggbbest/pancake-toolkit-testnet",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
