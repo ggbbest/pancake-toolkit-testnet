@@ -858,7 +858,7 @@ it("renders ConnectModal correctly", () => {
           <a
             class="c16 c17 c18"
             color="primary"
-            href="https://docs.pancakeswap.finance/get-started/connection-guide"
+            href="https://docs.vpoker.c4ei.net/get-started/connection-guide"
             rel="noreferrer noopener"
             target="_blank"
           >

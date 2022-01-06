@@ -30,7 +30,7 @@ const ConnectModal: React.FC<Props> = ({ login, onDismiss = () => null }) => (
         mb={index < config.length - 1 ? "8px" : "0"}
       />
     ))}
-    <HelpLink href="https://docs.pancakeswap.finance/get-started/connection-guide" external>
+    <HelpLink href="https://docs.vpoker.c4ei.net/get-started/connection-guide" external>
       <HelpIcon color="primary" mr="6px" />
       Learn how to connect
     </HelpLink>

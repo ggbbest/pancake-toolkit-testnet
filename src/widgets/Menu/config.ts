@@ -27,11 +27,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://exchange.vpoker.c4ei.net",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
+        href: "https://exchange.vpoker.c4ei.net/#/pool",
       },
     ],
   },
@@ -121,7 +121,7 @@ export const links = [
     items: [
       {
         label: "Voting",
-        href: "https://voting.pancakeswap.finance",
+        href: "https://voting.vpoker.c4ei.net",
       },
       {
         label: "Github",
@@ -129,7 +129,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://docs.pancakeswap.finance",
+        href: "https://docs.vpoker.c4ei.net",
       },
       {
         label: "Blog",

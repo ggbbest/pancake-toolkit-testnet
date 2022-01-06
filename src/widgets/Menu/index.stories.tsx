@@ -187,7 +187,7 @@ export const WithProfile: React.FC = () => {
         links={links}
         profile={{
           username: "pancakeswap",
-          image: "https://pancakeswap.finance/images/nfts/blueberries-preview.png",
+          image: "https://vpoker.c4ei.net/images/nfts/blueberries-preview.png",
           profileLink: "/profile",
           noProfileLink: "/no-profile",
         }}
@@ -241,7 +241,7 @@ export const WithSubmenuSelected: React.FC = () => {
         links={links}
         profile={{
           username: "pancakeswap",
-          image: "https://pancakeswap.finance/images/nfts/blueberries-preview.png",
+          image: "https://vpoker.c4ei.net/images/nfts/blueberries-preview.png",
           profileLink: "/profile",
           noProfileLink: "/no-profile",
         }}
